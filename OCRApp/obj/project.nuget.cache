@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3UwD612yM+retGezHl0JOx0hHzQMN+TuYUUskyqLSt4elTyakFXLtdqLrUT0OeDYc5EGPvl05vsIvD2nxuQsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UITS-PC\\source\\repos\\OCRApp\\OCRApp\\OCRApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\ironocr\\2023.8.34\\ironocr.2023.8.34.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\ironsoftware.native.pdfmodel\\2023.8.17287\\ironsoftware.native.pdfmodel.2023.8.17287.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\UITS-PC\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "IronOcr 2023.8.34 depends on IronSoftware.Native.PdfModel (>= 2023.8.17042) but IronSoftware.Native.PdfModel 2023.8.17042 was not found. An approximate best match of IronSoftware.Native.PdfModel 2023.8.17287 was resolved.",
+      "libraryId": "IronSoftware.Native.PdfModel",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
